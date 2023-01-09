@@ -19,7 +19,8 @@
 </div>
   
 <div align="right">
-<img align="center" height="150" width="260" src="https://user-images.githubusercontent.com/122190261/211231672-7642411d-f324-4e67-b90a-443e5b8bd4aa.png">
-</div
+<img align="center" height="300" width="260" src="https://user-images.githubusercontent.com/122190261/211232000-381b4322-7b88-4c50-be4f-86dadbe662ec.png">
+</div>
+
  
 
